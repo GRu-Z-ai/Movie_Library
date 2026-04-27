@@ -18,5 +18,4 @@
 
 ```bash
 git clone https://github.com/GRu-Z-ai/Movie_Library.git
-cd movie-library
 python main.py
