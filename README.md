@@ -1,1 +1,22 @@
-# Movie_Library
+# Movie Library (Личная кинотека)
+
+**Автор:** Гибизова Рузана 
+**Вариант:** Movie Library
+
+## Что это за программа
+
+Программа для хранения списка просмотренных фильмов.  
+Можно добавлять фильмы (название, жанр, год, рейтинг), удалять и фильтровать по жанру или году.  
+Данные сохраняются в файл movies.json.
+
+## Что нужно для запуска
+
+- Python 3
+- tkinter, json
+
+## Как запустить
+
+```bash
+git clone https://github.com/GRu-Z-ai/Movie_Library.git
+cd movie-library
+python main.py
